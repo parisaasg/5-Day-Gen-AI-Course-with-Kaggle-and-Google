@@ -1,4 +1,4 @@
-# Kaggle's 5-Day Gen-AI Intensive Course with Google
+# 5-Day Gen-AI Intensive Course with Kaggle and Google
 
 Welcome to the repository for Kaggle and Google’s **5-Day Generative AI Intensive Course**. This repository includes links to daily whitepapers, podcasts, assignments, and other course materials.
 
